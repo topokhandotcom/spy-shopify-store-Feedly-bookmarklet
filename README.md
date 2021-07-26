@@ -48,7 +48,7 @@ just one simple click will open a new browser tab and search for the shopify RSS
 If you don't find the bookmarks bar, Go to Settings on chrome browser, and on the left side click on Appearance (chrome://settings/appearance), after that click on "Show bookmarks bar"
     </li>
 
-!["Screenshot of Show bookmarks bar"](Step_5.png)
+!["Screenshot of Show bookmarks bar"](Note.png)
   
   <li>You can also add the Bookmarklet to opera and Firefox Browser</li>
   
