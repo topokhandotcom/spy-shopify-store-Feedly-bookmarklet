@@ -1,0 +1,1 @@
+# spy-shopify-store-Feedly-bookmarklet
