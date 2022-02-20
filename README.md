@@ -8,13 +8,13 @@ javascript:(function(){window.open('https://feedly.com/i/discover/sources/search
 ```
 <br/>
 
-This is a <a href="http://en.wikipedia.org/wiki/Bookmarklet">Bookmarklet</a> to help you spy on Shopify stores, and see what new products they are adding to their stores
+This is a <a href="http://en.wikipedia.org/wiki/Bookmarklet">Bookmarklet</a> to help you spy on Shopify stores, and see what new products they are adding to their stores.
 
-In this Bookmarklet we're using Feedly site to spy on shopify Stores using RSS, you can spy on shopify Stores without this Bookmarklet, by copying the URL of the shopify store and go to Feedly site and enter the URL of the store + /collections/all.atom at the end of the URL.
+In this Bookmarklet we're using Feedly website to spy on Shopify Stores using RSS, you can spy on Shopify Stores without this Bookmarklet, by copying the URL of the Shopify store and going to Feedly website, entering the URL of the store, and adding  /collections/all.atom at the end of the URL.
 
 But by using this Bookmarklet you'll be more productive
 
-You don't have to copy the URL and go to Feedly site every time
+You don't have to copy the URL and go to the Feedly website every time
 
 just one simple click will open a new browser tab and search for the shopify RSS and you just need to click on follow to follow the store.
 
